@@ -1,4 +1,4 @@
-# 📜 WhatsApp Web Spammer - Installation and Usage Guide
+# 📜 WhatsApp Web Spimmir Amimir - Installation and Usage Guide
 
 ## 🧩 Step 1: Install a Userscript Manager
 
